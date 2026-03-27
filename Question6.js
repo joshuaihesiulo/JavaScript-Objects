@@ -9,8 +9,9 @@ let highestSalary= 0
 for(i=0; i<staff.length; i++){
     if(staff[i].department == "Tech"){
         console.log(staff[i].name)
-    } else if(staff[i].salary>highestSalary){
-        highestSalary= staff[i].salary
-    }
-    console.log(highestSalary)
+    } 
+    if(staff[i].salary>highestSalary){
+         highestSalary= staff[i].salary
+     }
 } 
+console.log(highestSalary)
