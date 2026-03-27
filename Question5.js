@@ -1,7 +1,7 @@
 let students= [
-    Student1= {name: "Solomon", score: 95},
-    Student2= {name: "Emmanuel", score: 100},
-    Student3= {name: "George", score: 49}
+    {name: "Solomon", score: 95},
+    {name: "Emmanuel", score: 100},
+    {name: "George", score: 49}
 ]
 let count= 0
 
