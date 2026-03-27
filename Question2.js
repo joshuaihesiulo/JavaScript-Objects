@@ -9,7 +9,8 @@ console.log(car.brand)
 console.log(car.price)
 
 // changing the price
-
 car.price= 4800000
+
 car.colour= "white"
+
 console.log(car)
