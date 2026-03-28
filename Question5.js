@@ -3,7 +3,7 @@ function gradeScores(){
     let students= [
         {name: "Solomon", score: 95},
         {name: "Emmanuel", score: 100},
-        {name: "George", score: 49}
+        {name: "Godswill", score: 49}
     ]
     let count= 0
     
